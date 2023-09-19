@@ -1,0 +1,142 @@
+:root{
+    --couleur1:#25384F;
+    --couleur2:#74ABCE;
+    --couleur3:#374F6C;
+    --couleur4:#577259;
+    --couleur5:#24374E;
+    --couleur6:#CDDC3E;
+    --couleur7:#365E80;
+    --couleur8:##ACB2B1;
+}
+
+*{
+    /* border: 1px solid red; */
+    /* width: 100%;
+} */
+.body{
+    overflow: auto;
+
+}
+.tall{
+     /* border:  solid  red; */
+   
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 150px;
+    background: #25384F; 
+}
+   
+.hr{
+    color: white;
+    border-buttom: 1px solid #74ABCE;
+    margin-left: 100px;
+    text-decoration: underline; color: #74ABCE;
+    text-decoration-skip-ink: all; 
+    text-decoration-thickness: 3px;
+    margin-bottom: 5px;
+}
+.bs{
+    color: #74ABCE;
+    border-top: 1px solid #74ABCE;
+    padding: 0cm;
+}
+.mn{
+    color: #74ABCE;
+    border-top: 1px solid #74ABCE;
+}
+.ab{
+    color: #74ABCE;
+    border-top: 1px solid #74ABCE;
+}
+.cd{
+    color: #74ABCE;
+    border-top: 1px solid #74ABCE;
+    text-decoration:#74ABCE ;
+    background: linear-gradient #74ABCE;
+}
+.af{
+   
+    
+ color: #CDDC3E;
+    
+    margin-top: -5px;
+    margin-right: 170px;
+    margin-bottom: -50px;
+    
+}
+.fati{
+    display: flex;
+    justify-content: space-between;
+}
+.yna{
+    margin-left: 190px;
+    display: inline;
+    margin-right: 60px;
+    margin-top: -19px;
+}
+.mf{
+    margin-right: 250px;
+    margin-bottom: -20px;
+}
+.az{
+    display: flex;
+    /* justify-content: center; */
+    /* width: 100px; */
+    /* border: 2px solid red; */
+    width: 100%;
+    height: 350px;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+.fa{
+    /* border: color solid red */
+   display: flex; 
+margin-left: 15%;
+margin-top: 70px;
+height: 100%;
+align-items:  space-between;
+
+}
+.was {
+    color: #25384F;
+    display: flex;
+    margin-left: 70px;
+}
+.maer{
+display: flex;
+margin-top: 200px;
+margin-left: 950px;
+}
+.search{
+    color: #74ABCE;
+}
+.rt{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.mp{
+    margin-bottom: -90px;
+    margin-right: 10px;
+    margin-left: 12px;
+    /* color: #374F6C; */
+    margin-top: -21px;
+
+}
+.adji{
+    margin-left: 400px;
+    margin-TOP: -100px;
+}
+.tfm{
+    color:#24374E;
+}
+.point{
+    color: #365E80;
+    font-size: 32px;
+    /* padding-top: 100px; */
+}
+.search{
+    margin-left: 100%;
+    margin-top: -45px;
+    margin-right: -65px;
+} 
